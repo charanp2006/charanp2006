@@ -2,7 +2,7 @@
 <h3 align="center">A curious CSE student exploring the tech world 🌐</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Developer+👨‍💻;Learning+React+and+More...;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Developer+👨‍💻;Learning+React+and+More...;Welcome+to+my+GitHub+Profile!" alt="" />
 </p>
 
 <!-- <p align="center">
@@ -49,7 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanp2006&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <!-- SOCIAL LINKS COMING SOON -->
 <!-- Once you're ready, add links here for LinkedIn, Instagram, Leetcode, etc. -->
