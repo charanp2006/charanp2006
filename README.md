@@ -8,7 +8,7 @@ I'm passionate about building <b>hands-on projects</b>, learning new technologie
 ---
 
 ## 🌐 Connect with Me
-- 🔗 Website: https://charan-silk.vercel.app/
+- 🔗 Portfolio Website: https://charanp.tech/
 - 📫 Email: charan.p.8653@gmail.com
 
 
