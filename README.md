@@ -13,7 +13,7 @@ Explore more about my work and projects:
 ### Connect & Collaborate
 - **LinkedIn**: https://www.linkedin.com/in/charanp2006
 - **Mail**: charan.p.8653@gmail.com  
-- **GitHub**: Feel free to explore my repositories, review the code, or contribute to ongoing projects.
+- **GitHub**: https://www.github.com/charanp2006
 
 ---
 
