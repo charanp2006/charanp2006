@@ -27,7 +27,15 @@ Explore more about my work and projects:
 
 <br/>
 
-<img width="50%" src="https://streak-stats.demolab.com?user=charanp2006&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD"/>
+<!-- <img width="50%" src="https://streak-stats.demolab.com?user=charanp2006&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD"/> -->
+
+
+<p align="center">
+  <img
+    src="./profile/streak.svg"
+  />
+</p>
+
 
 </div>
 
