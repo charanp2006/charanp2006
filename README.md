@@ -19,11 +19,24 @@ Explore more about my work and projects:
 
 ---
 
+<div align="center">
+
+<img width="39%" src="https://github-readme-stats-fast.vercel.app/api?username=charanp2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&rank_icon=github"/>
+
+<img width="29%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=charanp2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8"/>
+
+<br/>
+
+<img width="50%" src="https://streak-stats.demolab.com?user=charanp2006&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD"/>
+
+</div>
+
+---
+
 Thank you for visiting my profile. 
 Feel free to explore my projects, connect with me, or collaborate on something meaningful.
 
 ---
-
 <!--
 
 ## 📊 GitHub Stats
@@ -74,5 +87,138 @@ Explore more about my work and projects:
 
 <p align="center"><i>Thanks for stopping by! 🚀</i></p>
 
+
+---
+---
+----
+
+<!-- ================= HEADER ================= --
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:2563eb&height=200&section=header&text=CHARAN%20P&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Building%20Ideas%20Into%20Reality&descAlignY=60&descSize=18&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=A5B4FC&center=true&vCenter=true&width=600&lines=Developer+%7C+Problem+Solver;Building+Things+That+Matter.;Always+Learning.+Always+Creating." alt="Typing introduction"/>
+
+<br/>
+
+<p>
+  <a href="https://charanp.tech">
+    <img src="https://img.shields.io/badge/EXPLORE%20MY%20WEBSITE-818CF8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="mailto:charan.p.8653@gmail.com">
+    <img src="https://img.shields.io/badge/GET%20IN%20TOUCH-1E293B?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+    <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-312E81?style=flat-square"/>
+    
+</p>
+
+</p>
+
+</div>
+
+---
+
+<!-- ================= ABOUT ================= --
+
+## About Me
+
+<!--
+<img align="right" width="280" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=charanp2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+--
+
+- 💡 Passionate about building innovative solutions.
+- 🧠 Enjoy solving problems and exploring new technologies.
+- 🌱 Continuously learning and improving my development skills.
+- ⚡ Interested in creating scalable and impactful applications.
+- 🎯 Focused on writing clean, efficient, and maintainable code.
+- 🤝 Open to collaboration, exciting projects, and new opportunities.
+
+<!-- <br clear="right"/> --
+
+---
+
+<!-- ================= TECH STACK ================= 
+
+## 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,cpp&perline=6" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,git,github,vscode,postman,linux,docker&perline=5" />
+</p>
+
+---
+
+-->
+<!-- ================= GITHUB STATS ================= --
+
+## GitHub Analytics
+
+<div align="center">
+
+<img width="39%" src="https://github-readme-stats-fast.vercel.app/api?username=charanp2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&rank_icon=github"/>
+
+<img width="29%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=charanp2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8"/>
+
+<br/>
+
+<img width="50%" src="https://streak-stats.demolab.com?user=charanp2006&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD"/>
+
+</div>
+
+---
+
+<!-- ================= ACTIVITY GRAPH ================= 
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=charanp2006&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+
+</div>
+
+---
+-->
+
+<!-- ================= CONNECT ================= --
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/charanp2006">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/charanp2006">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://charanp.tech">
+    <img src="https://img.shields.io/badge/Website-Explore-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="mailto:charan.p.8653@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<!-- ================= FOOTER ================= --
+
+<div align="center">
+
+### Thanks for visiting my profile!
+
+*Keep building. Keep learning. Keep creating.*
+
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:2563eb&height=120&section=footer"/> --
+
+</div>
+
+----
+---
+---
 
 -->
