@@ -21,9 +21,20 @@ Explore more about my work and projects:
 
 <div align="center">
 
-<img width="39%" src="https://github-readme-stats-fast.vercel.app/api?username=charanp2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&rank_icon=github"/>
+<!-- <img width="39%" src="https://github-readme-stats-fast.vercel.app/api?username=charanp2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&rank_icon=github"/>
 
-<img width="29%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=charanp2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8"/>
+<img width="29%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=charanp2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8"/> -->
+
+<p align="center">
+  <img
+    width="39%"
+    src="./profile/stats.svg"
+  />
+  <img
+    width="29%"
+    src="./profile/top-langs.svg"
+  />
+</p>
 
 <br/>
 
@@ -32,6 +43,7 @@ Explore more about my work and projects:
 
 <p align="center">
   <img
+    width="50%"
     src="./profile/streak.svg"
   />
 </p>
